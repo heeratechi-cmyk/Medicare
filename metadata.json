@@ -1,0 +1,6 @@
+{
+  "name": "MediCare - Doctor Appointment Booking Platform",
+  "description": "Enterprise commercial healthcare platform for finding verified specialist doctors, checking clinic availability, and booking appointments online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
